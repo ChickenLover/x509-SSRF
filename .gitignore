@@ -1,0 +1,6 @@
+__pycache__/
+*.crt
+*.pfx
+*.key
+*.pem
+*.der
